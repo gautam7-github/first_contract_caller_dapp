@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Caller</title>
+		<link
+			rel="stylesheet"
+			type="text/css"
+			href="{{ url_for('static',filename='styles/index.css') }}"
+		/>
+	</head>
+	<body>
+		<div class="center">{{currVal}}</div>
+		<a
+			href="https://ropsten.etherscan.io/address/0x8ca4e451903e4dbb3df6eeee34a02b0aca81eddc#code"
+		>
+			Contract Link
+		</a>
+	</body>
+</html>

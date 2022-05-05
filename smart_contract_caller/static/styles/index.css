@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
+* {
+	margin: 0;
+	padding: 0;
+	color: #aef78e;
+	background-color: #25283D;
+	scroll-behavior: smooth;
+}
+.center {
+	font-size: 35vh;
+	font-family: "Poiret One", cursive;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    
+}
