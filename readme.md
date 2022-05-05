@@ -12,3 +12,7 @@ https://ropsten.etherscan.io/address/0x8ca4e451903e4dbb3df6eeee34a02b0aca81eddc#
 ![ss](ss1.jpg)
 
 at the time of writing 89 was the value
+
+
+
+### I will not be pushing the code to write contract (set method) as it contains highly dangerous code!
